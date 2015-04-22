@@ -1,0 +1,16 @@
+{
+"ims": [
+        {
+            "name": "blue"
+        },
+        {
+            "name": "boot"
+        }
+    ],
+    "tm": {
+        "number": "15896352635",
+        "type": "phone"
+    },
+    "passWord": "123",
+    "userName": "admin"
+}
