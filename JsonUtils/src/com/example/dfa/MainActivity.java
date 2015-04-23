@@ -45,7 +45,7 @@ public class MainActivity extends ActionBarActivity {
 				e.printStackTrace();
 			}
 //			System.out.println(mBuilder.toString());
-			System.out.println(um1.getPassWord());
+			System.out.println(um1.passWord);
 			System.out.println(um1.userName);
 			System.out.println(um1.tm);
 
